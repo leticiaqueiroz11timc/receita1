@@ -79,7 +79,6 @@ ol, ul {
     color: #7a284e;
     font-size: 12px;
 }
-
     h2{
         font-size: 28px;
         color: #854632;
@@ -95,4 +94,10 @@ ol, ul {
 hr {
     border: 1px solid #e3ddd7;
     margin-block: 32px;
+}
+
+.modo li::marker {
+     color: #854632;
+     font-weight: 700;
+     
 }
